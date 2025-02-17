@@ -1,0 +1,5 @@
+//LH
+const db ='http://' + host +':'+port + '/' + database;
+
+//SH
+const db =`http://${host}:${port}/${database}`;
