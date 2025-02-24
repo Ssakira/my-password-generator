@@ -4,5 +4,5 @@ var obj={
   Age : 21
 }
 for(var key in obj){
-  console.log( obj[key]);
+  console.log(obj[key]);
 }

@@ -8,7 +8,7 @@ let Car ={
   speed:0,
 
   accelerate: function(increment){
-    this.speed += increment;
+    this. speed += increment;
     console.log(`Accelerating! speed is now ${this.speed} km/h`);
   },
 

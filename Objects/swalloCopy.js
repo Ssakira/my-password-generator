@@ -16,11 +16,11 @@ let obj= {
     }
   }
 }
+let obj2 ={...obj}; 
+console.log(obj);
+console.log(obj2);
 
 obj2.social.facebook.ac1 = "changed";
 console.log(obj.social.facebook.ac1);
 console.log(obj2.social.facebook.ac1);
 
-/* let obj2 ={...obj}; 
-console.log(obj);
-console.log(obj2); */
