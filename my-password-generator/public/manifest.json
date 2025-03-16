@@ -1,0 +1,14 @@
+{
+  "name": "Password Generator",
+  "short_name": "PwdGen",
+  "description": "A simple password generator built with JavaScript and Vite",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone"
+}
